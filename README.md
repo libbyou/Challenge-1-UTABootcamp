@@ -17,4 +17,8 @@ SO THAT our own site is optimized for search engines
 
 This website can be used to look up information about the services that the Horiseon marketing agency offers. For easy navigation, click on the topics in the navigation at the top of the page and it will bring you down to the corresponding topic further down the page.
 
+![gif of website's usage](./assets/website.gif)
+
 ## License
+
+Please refer to the LICENSE in the repo.
